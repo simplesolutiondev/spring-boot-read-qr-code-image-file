@@ -1,1 +1,1 @@
-# spring-boot-read-qr-code-image-file
+# Spring Boot Read and Decode QR Code Image File
