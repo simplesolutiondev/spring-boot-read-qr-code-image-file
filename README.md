@@ -1,0 +1,1 @@
+# spring-boot-read-qr-code-image-file
